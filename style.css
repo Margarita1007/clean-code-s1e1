@@ -34,7 +34,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .new-task-wrapper {
@@ -135,7 +135,7 @@
 }
 
 .task-elem > .input-text {
-  width: 226px
+  width: 226px;
 }
 
 .img-delete {
@@ -150,13 +150,13 @@
 
 /* completed */
 #completed-tasks .label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* edit task */
 .task-elem .input-text {
-  display: none
+  display: none;
 }
 
 .edit-mode .input-text {
