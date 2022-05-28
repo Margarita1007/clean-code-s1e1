@@ -19,7 +19,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .start-screen { 
     text-align: center;
   }
@@ -44,7 +44,7 @@
 #incomplete-tasks,
 #completed-tasks {
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 .task-elem,
@@ -59,7 +59,7 @@
 
 .button {
   background: none;
-  border: 0px;
+  border: 0;
   color: #888;
   font-size: 15px;
   width: 60px;
